@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+#accordion-body img{
+    width: 205px; 
+   height: auto;
+}
+
+
+#accordion-body iframe{
+    height: 190px;
+    width: 390px;
+}
+
+.accordion-body img{
+    width: 190px;
+    
+}
+    
+
+
+main .E{
+    float: left;
+    margin-top: 190px;
+}
+
+main .F{
+    float: right;
+    margin-top: -150px;
+}
+
+main .C{
+    margin-top: 190px;
+    m
+}
+
+p1{
+    text-align: end;
+    
+}
+p3{
+    text-align: center;
+}
+
+.A{
+   
+    
+    margin-top: -197px;
+    margin-left: 150px;
+    margin-right: -115px;
+
+   
+    float: right ; 
+}
+
+.container{
+    width: 50px;
+    align-items: flex-start;
+   float: left;
+   margin-top: 83px;
+   align-items: center;
+}
+
+.grille{
+   
+   text-align: center;
+    width: 500px;
+    float: ;
+    margin-right: 405px;
+    margin-top: 90px;
+   
+}
+
+
+
+#q{
+    background-image: url("image/Plage-Dakar-1024x768.jpg");
+    background-size: cover;
+}
+
+.hero{
+    background-image: url(image/partirsuruneile.jpg);
+   
+}
+
+div ul li a{
+text-align: left;
+margin-left: 100px;
+margin-top: 50px;
+
+
+}
+#navbarScroll{
+    text-align: left;
+    padding-left: 19%;
+    background-color: beige;
+    margin-top: -1px;
+    margin-bottom: 8px;
+}
+
+.btn{
+    margin-left: -1px;
+}
+
+#B{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+.d-flex{
+    margin-bottom:40px;
+    margin-left: -80px;
+   text-align: 30px;
+   margin-top: -10px;
+   margin-right: 190px;
+  
+   
+
+}
+
+
+
+header{
+    font-size: 100%;
+   
+}
+
+.logo{
+    width: -35%;
+    height: -15%;
+    right: 10%;
+    font-size: 15px;
+}
+
